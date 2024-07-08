@@ -11,4 +11,6 @@ Ru
 ЭТО НЕ КОПИЯ "Nostalgia Dash"!
 -------------------BG-------------------
 Eng
-for removes color pls download mod [Happy Textures :3](geode-sdk.org/mods/alphalaneous.happy_textures) and download No Colors 1.0.0-Beta 3(github.com/CMDgds/No-Colors/releases/tag/5)
+for removes bg color pls download mod [Happy Textures :3](geode-sdk.org/mods/alphalaneous.happy_textures) and download [No Colors 1.0.0-Beta 3](github.com/CMDgds/No-Colors/releases/tag/5)
+Ru
+для удаления цвета фона, пожалуйста, загрузите мод [Happy Textures :3](geode-sdk.org/mods/alphalaneous.happy_textures) и загрузите [No Colors 1.0.0-Beta 3](github.com/CMDgds/No-Colors/releases/tag /5)
